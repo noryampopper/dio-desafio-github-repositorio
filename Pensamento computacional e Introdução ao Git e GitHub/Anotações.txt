@@ -1,0 +1,9 @@
+No curso de Pensamento computacional foi possível entender que esse mecanismo não está ligado apenas à computação mas também no nosso dia a dia, uma vez que a lógica está  inserida em todas as nossas ações.
+
+Aprendi o conceito de Raciocínio Lógico que é a forma de pensamento estruturado, ou raciocínio, que permite encontrar a conclusão ou determinar a resolução de um problema.
+
+Também foi possível saber que a Decomposição é dado um problema complexo, devemos quebra-los em problemas menores. Portanto problemas mais fáceis e gerenciáveis.
+
+A abstração é o modo de generalizar, na lógica, é a operação intelectual que consiste em reunir numa classe geral, um conjunto de seus fenômenos similares.
+
+Em se tratando de Git foi possível entender que os objetos internos no git é composto por BLOBS, TREES e COMMITS. 
